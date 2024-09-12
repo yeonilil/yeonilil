@@ -12,3 +12,6 @@
 <img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=flat-square&logo=notion&logoColor=white"/> <img alt="jira" src ="https://img.shields.io/badge/jira-0052CC.svg?&style=flat-square&logo=jira&logoColor=white"/> <img alt="slack" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white"/> <img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=flat-square&logo=git&logoColor=white"/> <img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white"/> 
 
 <br/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yeonilil}?pet-id=1" width="1000" height="120"/>
+</a>
